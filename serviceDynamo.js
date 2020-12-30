@@ -4,8 +4,8 @@ var AWS = require('aws-sdk');
 
 
 AWS.config = new AWS.Config();
-AWS.config.accessKeyId="AKIAI4WT4DEIGEUULUFA"
-AWS.config.secretAccessKey = "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";
+AWS.config.accessKeyId="xxx"
+AWS.config.secretAccessKey = "iuiy";
 AWS.config.region = "us-east-1";
 
 var dynamoDB=new AWS.DynamoDB.DocumentClient();
