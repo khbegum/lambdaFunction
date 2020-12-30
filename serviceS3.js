@@ -3,7 +3,7 @@
 var aws = require('aws-sdk'); //require aws-sdk
  
 
-var s3 = new aws.S3({ accessKeyId: "AKIAI4WT4DEIGEUULUFA", secretAccessKey:"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" }); //create a s3 Object with s3 User ID and Key
+var s3 = new aws.S3({ accessKeyId: "khkh", secretAccessKey:"uiuu" }); //create a s3 Object with s3 User ID and Key
 
 
 
