@@ -1,0 +1,19 @@
+{
+  "name": "addemployee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.809.0",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}

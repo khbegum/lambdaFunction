@@ -1,0 +1,10 @@
+{
+   "1111": {
+        "description": "Diwali offer",
+        "discount": 100
+    },
+    "1112": {
+        "description": "new year offer",
+        "discount": 200
+    }
+}
